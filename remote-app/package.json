@@ -1,0 +1,20 @@
+{
+  "name": "remote-app",
+  "scripts": {
+    "serve": "webpack serve"
+  },
+  "dependencies": {
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "babel-loader": "^8.0.0",
+    "html-webpack-plugin": "^5.0.0",
+    "vue-loader": "^17.0.0",
+    "webpack": "^5.99.5",
+    "webpack-cli": "^4.0.0",
+    "webpack-dev-server": "^4.0.0"
+  }
+}
