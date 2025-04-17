@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Host App with Router</h1>
+    <h1>主站点</h1>
     <router-view />
   </div>
 </template>

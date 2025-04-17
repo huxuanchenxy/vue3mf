@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>Hello from Remote App111!</h2>
+    <h2>我是来自远程的组件!</h2>
   </div>
 </template>
 
